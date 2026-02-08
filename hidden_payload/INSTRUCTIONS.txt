@@ -1,0 +1,35 @@
+
+=== REALITY DEBUGGER - FINAL ASSEMBLY ===
+
+You've found the hidden archive. Impressive.
+
+FLAG FORMAT: 0DAY{...} (UPPERCASE!)
+
+DECODING SEQUENCE:
+1. Artist field: 5a52454f4a4b663d
+   Decode: Hex -> ASCII -> ROT13 (reverse) -> Base64 (decode) -> Part 1
+
+2. Software field: =YBPmE3D
+   Decode: Reverse string -> Base64 (decode) -> XOR with key "MATRIX" -> Part 2
+
+3. Copyright field: lQdyTFoWTAFyaFdOHH6CHa4=
+   Decode: Caesar cipher (-7) -> Base64 (decode) -> Zlib decompress -> Part 3
+
+4. UserComment field: TUQ1OmEwOTEzNWU2OTQxZmFkNTkuLi4=
+   Decode: Base64 (decode) -> Extract MD5 hash
+   BRUTEFORCE: MD5 hash is of the format "R3[a-z0-9]1ty}" 
+   Full MD5: a09135e6941fad5972f992337064bb32
+   You need to crack or reverse-lookup the MD5 to get Part 4
+
+FINAL FLAG ASSEMBLY:
+Part1 + Part2 + Part3 + Part4 = Full Flag
+
+Expected result: 0DAY{B0rn_t0_d36u9_R3a1ty}
+
+Layers to discover:
+1. EXIF metadata (4 encoded parts)
+2. LSB steganography (decoding hints)
+3. Polyglot file (this ZIP archive)
+4. Multiple fake flags (ignore them!)
+
+Good luck, debugger.

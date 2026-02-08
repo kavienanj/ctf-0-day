@@ -1,0 +1,564 @@
+!.debI
+!could not initialize thread_rng:
+" out of range for slice of length
+" was expected to have 1 char, but
+"unexpected error during closedir:
+#%&(38:HJLPSUVXZ\^`cefksx}
+#[A\A^A_]
+$HOM1
+$HOME/
+& is not a char boundary; it is inside
+&copy_from_slice: source slice length (
+&libc::pthread_atfork failed with code
+';>NO
+(T$@A
+(T$`A
+(T$pA
+([A\A]A^A_]
+([A^A_]
+(bytes
+(os error
+) has overflowed its stack
+) of `
+) panicked at
+) when slicing `
+), { :  {
+)147:;=IJ]
+)14:;EFIJ^de
+)14:EFIJNOde
+):;EIW[^_de
+)D$ A
+)D$@A
+)failed to allocate an alternative stack:
+*extension cannot contain path separators:
++) does not match destination slice length (
+, aborting
+..RefCell already borrowed
+./'(U
+.comment
+.data
+.data.rel.ro
+.debH
+.debug_macro.dwoPermissionDeniedStripPrefixError
+.dynamic
+.eh_frame
+.eh_frame_hdr
+.fini
+.fini_array
+.gcc_except_table
+.gnu.hash
+.gnu.version
+.gnu.version_r
+.gnu_debugaltlinm]
+.got.plt
+.init
+.init_array
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.rela.dyn
+.rela.plt
+.relro_padding
+.rodata
+.shstrtab
+.strtab
+.symtab
+.tdata
+.text
+.tm_clone_table
+.zdebug_H90@
+/dev/null
+/dev/ranH
+/dev/random
+/dev/uraH
+/dev/urandom
+/failed to set up alternative stack guard page:
+/home/trexthedino/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/aes-0.8.4/src/soft/fixslice64.rs
+/home/trexthedino/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cipher-0.4.4/src/block.rs
+/home/trexthedino/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dirs-sys-0.4.1/src/xdg_user_dirs.rs
+/home/trexthedino/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand-0.8.5/src/rng.rs
+/home/trexthedino/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand-0.8.5/src/rngs/adapter/reseeding.rs
+/home/trexthedino/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand-0.8.5/src/rngs/thread.rs
+/home/trexthedino/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_chacha-0.3.1/src/guts.rs
+/home/trexthedino/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/rand_core-0.6.4/src/impls.rs
+/home/trexthedino/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/same-file-1.0.6/src/unix.rs
+/home/trexthedino/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/walkdir-2.5.0/src/lib.rs
+/lib64/ld-linux-x86-64.so.2
+/proc/seH
+/rust/deps/addr2line-0.25.1/src/function.rs
+/rust/deps/addr2line-0.25.1/src/line.rs
+/rust/deps/addr2line-0.25.1/src/unit.rs
+/rust/deps/gimli-0.32.3/src/read/abbrev.rs
+/rust/deps/gimli-0.32.3/src/read/index.rs
+/rust/deps/gimli-0.32.3/src/read/line.rs
+/rust/deps/hashbrown-0.16.1/src/raw/mod.rs
+/rust/deps/miniz_oxide-0.8.9/src/inflate/core.rs
+/rust/deps/miniz_oxide-0.8.9/src/inflate/output_buffer.rs
+/rust/deps/rustc-demangle-0.1.26/src/legacy.rs
+/rust/deps/rustc-demangle-0.1.26/src/lib.rs
+/rust/deps/rustc-demangle-0.1.26/src/v0.rs
+/rustc/254b59607d4417e9dffbc307138ae5c86280fe4c/library/alloc/src/collections/btree/map/entry.rs
+/rustc/254b59607d4417e9dffbc307138ae5c86280fe4c/library/alloc/src/collections/btree/navigate.rs
+/rustc/254b59607d4417e9dffbc307138ae5c86280fe4c/library/alloc/src/collections/btree/node.rs
+/rustc/254b59607d4417e9dffbc307138ae5c86280fe4c/library/alloc/src/vec/mod.rs
+/rustc/254b59607d4417e9dffbc307138ae5c86280fe4c/library/core/src/cell/once.rs
+/rustc/254b59607d4417e9dffbc307138ae5c86280fe4c/library/core/src/num/wrapping.rs
+/rustc/254b59607d4417e9dffbc307138ae5c86280fe4c/library/core/src/ops/function.rs
+/rustc/254b59607d4417e9dffbc307138ae5c86280fe4c/library/core/src/slice/sort/stable/quicksort.rs
+/rustc/254b59607d4417e9dffbc307138ae5c86280fe4c/library/core/src/str/pattern.rs
+/rustc/254b59607d4417e9dffbc307138ae5c86280fe4c/library/std/src/sync/once.rs
+/rustc/254b59607d4417e9dffbc307138ae5c86280fe4c/library/std/src/sys/thread_local/native/lazy.rs
+/rustc/254b59607d4417e9dffbc307138ae5c86280fe4c/library/std/src/thread/local.rs
+/usr/libI
+0123456789ABCDEFmodnarodsetybdet
+0123456789abcdef
+0[A\A^A_]
+0[A^]
+4lpb1svfrzy98dcic58gw2zaw
+5fatal runtime error: failed to initiate panic, error
+6.debH
+8[A\A]A^A_]
+8[A^A_
+8[A^A_]
+9internal error: entered unreachable code: str::from_utf8(
+:I;?L
+;ZLIB
+;[A^A_
+<1CuSH
+<Ru(H
+<RuCI
+<unknown>
+>/uzH
+?/u[L
+?_Rt<A
+?fulltG
+@0tiH
+@[A\A^A_]
+@[A^]
+ARASj
+AVSE1
+AVSPH
+AVSPI
+AWAVATS
+AWAVATSA
+AWAVATSH
+AWAVATSI
+AWAVATSL
+AWAVATSM
+AWAVATSP
+AWAVATSPH
+AWAVATSPI
+AWAVATSPM
+AWAVAUATSH
+AWAVAUATSI
+AWAVAUATSL
+AWAVAUATSM
+AWAVAUATSPH
+AWAVAUATSPI
+AWAVS
+AWAVSH
+AWAVSI
+AWAVSP
+AWAVSPH
+AWAVSPI
+AddrNotAvailable
+AuthentiL1
+BUG: cannot pop from empty stack
+Couldn't parse hex numberCouldn't parse devtoo many permsCouldn't parse address rangeCouldn't find inodeCouldn't find devCouldn't find offsetCouldn't find permissionsCouldn't find addressinsufficient perms
+D$ E1
+D$ I)
+D$<I1
+D$hzikk
+D$pI1
+D)c(A
+DOWNLOADDeadlockdeadlockPICTURES
+DW.ref.rust_eh_personality
+D_ME.txtH1
+Error:
+F0I;N0L
+FGNOXZ\^~
+G bytes failed
+G8:F8u1
+G8[A\A]A^A_]
+G8[A^A_
+GCC: (Debian 14.2.0-16) 14.2.0
+GenuineII1
+H5ntelL
+H5uineH
+H9G u)H
+H9T$PtDI
+H9\$(tDIk
+H;D$(u
+H;D9HA
+H;D9PA
+H;G@A
+H;O A
+H;O`A
+H[A\A]A^A_]
+H[A^A_]
+Hash table capacity overflow,C
+Hcannot access a Thread Local Storage value during or after destruction:
+HygonGenL1
+I;B s
+I;L$H@
+I;L$P@
+I;V @
+INOWY^_
+Ifffff.
+InvalidLengthenough space for encrypting is allocatedBUG: stack should be non-emptyBUG: called is_same_file_system without root deviceBUG: list/path stacks out of sync
+K;<&O
+L$ E1
+L$hE1
+L$pE1
+L+H0O
+L3e(L1
+L9O`A
+L9|$hu
+L;L90O
+L>HE1
+LeftOrRight::Left(idx) => idx <= old_left_len,
+LeftOrRight::Right(idx) => idx <= right_len,
+Linker: LLD 21.1.8 (/checkout/src/llvm-project/llvm 85a90d119deb25b518867cd37d62c7b93b575a6f)
+M9$A
+M9&t9A
+M;L6 A
+O;$3A
+OS Error:
+Offf.
+P0I;P
+P[A\A^A_]
+READ_ME.H1
+RUSTH
+RUSTH9
+RUST_BACKTRACEfailed to generate unique thread ID: bitspace exhausted<unnamed>Box<dyn Any>thread caused non-unwinding panic. aborting.
+Rng::fill failed
+S u_H
+T$0u.H9
+T$8I;T
+U8[A\A]A^A_]
+UAVSH
+UAWAVATSI
+UAWAVAUATSH
+UAWAVAUATSL
+UAWAVAUATSPH
+UAWAVAUATSPI
+UAWAVAUATSPM
+UAWAVSH
+UUUUUUU
+UUUUUUUUH!
+UUUUUUUUL!
+Unknown Error:
+V H;S u
+W?[A\A]A^A_]
+XDG_DATA_HOME.local/sharefontsMUSICDESKTOPDOCUMENTSPUBLICSHARETEMPLATESVIDEOSXDG_CONFIG_HOME.configuser-dirs.dirs
+X[A\A]A^A_]
+X[A^A_]
+[... omitted
+[...]user-provided comparison function does not correctly implement a total ordercalled `Option::unwrap()` on a `None` value
+[A\A]A^A_
+[A\A]A^A_]
+[A\A]A^A_]1
+[A\A^A_
+[A\A^A_]
+[A^A_
+[A^A_]
+[A^H)
+\u*L9
+^PH;^@u
+_([A\A]A^A_
+_DYNAMIC
+_GLOBAL_OFFSET_TABLE_
+_ITM_deregisterTMCloneTable
+_ITM_registerTMCloneTable
+_RNvCshXwFllX56pT_7___rustc10rust_panic
+_RNvCshXwFllX56pT_7___rustc11___rdl_alloc
+_RNvCshXwFllX56pT_7___rustc12___rust_alloc
+_RNvCshXwFllX56pT_7___rustc13___rdl_dealloc
+_RNvCshXwFllX56pT_7___rustc13___rdl_realloc
+_RNvCshXwFllX56pT_7___rustc14___rust_dealloc
+_RNvCshXwFllX56pT_7___rustc14___rust_realloc
+_RNvCshXwFllX56pT_7___rustc17___rust_drop_panic
+_RNvCshXwFllX56pT_7___rustc17rust_begin_unwind
+_RNvCshXwFllX56pT_7___rustc18___rdl_alloc_zeroed
+_RNvCshXwFllX56pT_7___rustc18___rust_start_panic
+_RNvCshXwFllX56pT_7___rustc19___rust_alloc_zeroed
+_RNvCshXwFllX56pT_7___rustc20___rust_panic_cleanup
+_RNvCshXwFllX56pT_7___rustc24___rust_foreign_exception
+_RNvCshXwFllX56pT_7___rustc26___rust_alloc_error_handler
+_RNvCshXwFllX56pT_7___rustc35___rust_no_alloc_shim_is_unstable_v2
+_RNvCshXwFllX56pT_7___rustc42___rust_alloc_error_handler_should_panic_v2
+_Unwind_Backtrace
+_Unwind_DeleteException
+_Unwind_GetDataRelBase
+_Unwind_GetIP
+_Unwind_GetIPInfo
+_Unwind_GetLanguageSpecificData
+_Unwind_GetRegionStart
+_Unwind_GetTextRelBase
+_Unwind_RaiseException
+_Unwind_Resume
+_Unwind_SetGR
+_Unwind_SetIP
+__FRAME_END__
+__TMC_END__
+__TMC_LIST__
+__abi_tag
+__cxa_finalize
+__cxa_thread_atexit_impl
+__do_global_dtors_aux
+__do_global_dtors_aux_fini_array_entry
+__dso_handle
+__errno_location
+__frame_dummy_init_array_entry
+__gmon_start__
+__libc_start_main
+__pthread_atfork
+__register_atfork
+__rust_end_short_backtrace__rust_begin_short_backtraceslock count overflow in reentrant mutexnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+__tls_get_addr
+__xpg_strerror_r
+_fini
+_init
+_rust_extern_with_linkage_5414f88c956f4157___dso_handle
+_start
+`[A^]
+abort
+aborting due to panic at
+addr2line.386ecf22b166c88d-cgu.0
+adler2.43389532311dee92-cgu.0
+aes.6f86f8a81de02e7a-cgu.0
+aes.6f86f8a81de02e7a-cgu.1
+aes.6f86f8a81de02e7a-cgu.2
+affff.
+alloc.cfeb9a527306e1a7-cgu.0
+anon.2005c41453e04e55596103915a03b849.0.llvm.13494545091461046779
+anon.4c629cc05c4239572b97daf42007039a.0.llvm.8129689553408267093
+anon.4c629cc05c4239572b97daf42007039a.1.llvm.8129689553408267093
+anon.4c629cc05c4239572b97daf42007039a.2.llvm.8129689553408267093
+anon.4c629cc05c4239572b97daf42007039a.3.llvm.8129689553408267093
+anon.9aa62ff52b65a2b7cb2385bf93a67020.1.llvm.4728750233035301543
+anon.9aa62ff52b65a2b7cb2385bf93a67020.2.llvm.4728750233035301543
+assertion `left
+assertion failed: edge.height == self.height - 1assertion failed: src.len() == dst.len()assertion failed: edge.height == self.node.height - 1
+attempt to divide by zeroattempt to calculate the remainder with a divisor of zeropanic in a destructor during cleanup==!=matchespanic in a function that cannot unwind
+begin <= end (
+bu`I)
+bug_3J
+but ends at
+but the index is
+byte index
+bytes failed
+cAMDH
+calloc
+chars were found
+close
+closedir
+codeu128for<Kindboolmut kind/
+compiler_builtins.4d70b7189683a83-cgu.244
+compiler_builtins.4d70b7189683a83-cgu.249
+compiler_builtins.4d70b7189683a83-cgu.256
+compiler_builtins.4d70b7189683a83-cgu.261
+completed.0
+connection reset
+core.fcada436b717a91e-cgu.0
+crtstuff.c
+d$ [A^]t
+deadlock in SIGSEGV handlerinternal error: entered unreachable code: the thread info setup logic isn't recursivethere is no guard pagefatal runtime error: stack overflow, aborting
+deregister_tm_clones
+directories.7a68fa2bd2d75329-cgu.0
+directories.7a68fa2bd2d75329-cgu.1
+dirfd
+dirs_sys.3b577615e6815aa1-cgu.0
+dirs_sys.3b577615e6815aa1-cgu.1
+dirs_sys.3b577615e6815aa1-cgu.2
+dl_iterate_phdr
+elf/mapsH
+expand 32-byte kentity not foundk
+fatal runtime error: Rust cannot catch foreign exceptions, aborting
+fatal runtime error: Rust panics must be rethrown, aborting
+fatal runtime error: assertion failed: key as usize != KEY_SENTVAL, aborting
+fatal runtime error: drop of the panic payload panicked, aborting
+fatal runtime error: out of TLS keys, aborting
+file name contained an unexpected NUL byteOnce instance has previously been poisonedtoo many active read locks on RwLockassertion failed: is_unlocked(state)failed to open /dev/random
+frame
+frame_dummy
+fstat64
+fstatat64
+getauxval
+getcwd
+getenv
+getpwuid_r
+getrandom
+getrandom.509304204bb76132-cgu.0
+gettid
+getuid
+gimli.aed6941083384011-cgu.0
+h[A\A]A^A_]
+h[A^A_]
+hashbrown.9be2d9b1f8706a3b-cgu.0
+ib/debugI
+index out of bounds: the len is
+is not an OsStr boundary
+is out of bounds of `
+jaUOo
+l$pE1
+ld-linux-x86-64.so.2
+left:
+libc.so.6
+libgcc_s.so.1
+library/alloc/src/raw_vec/mod.rs
+library/core/src/fmt/mod.rs
+library/core/src/fmt/num.rs
+library/core/src/panicking.rs
+library/core/src/slice/sort/shared/smallsort.rs
+library/core/src/str/lossy.rs
+library/core/src/str/pattern.rs
+library/core/src/unicode/printable.rs
+library/std/src/../../backtrace/src/backtrace/libunwind.rs
+library/std/src/../../backtrace/src/symbolize/gimli.rs
+library/std/src/../../backtrace/src/symbolize/gimli/elf.rs
+library/std/src/../../backtrace/src/symbolize/gimli/lru.rs
+library/std/src/../../backtrace/src/symbolize/gimli/stash.rs
+library/std/src/../../backtrace/src/symbolize/mod.rs
+library/std/src/alloc.rs
+library/std/src/ffi/os_str.rs
+library/std/src/io/mod.rs
+library/std/src/io/stdio.rs
+library/std/src/panicking.rs
+library/std/src/path.rs
+library/std/src/rt.rs
+library/std/src/sync/once.rs
+library/std/src/sync/reentrant_lock.rs
+library/std/src/sys/fs/unix.rs
+library/std/src/sys/io/io_slice/iovec.rs
+library/std/src/sys/pal/unix/mod.rs
+library/std/src/sys/pal/unix/os.rs
+library/std/src/sys/pal/unix/stack_overflow.rs
+library/std/src/sys/pal/unix/stack_overflow/thread_info.rs
+library/std/src/sys/random/linux.rs
+library/std/src/sys/sync/rwlock/futex.rs
+library/std/src/sys/thread_local/destructors/list.rs
+library/std/src/thread/id.rs
+lock1
+lockedREAD_ME.txtAll your important files have been encrypted.called `Result::unwrap()` on an `Err` value
+lseek64
+lstat64
+malloc
+memchr.5efb087e23f2bb47-cgu.0
+memcpy
+memmove
+memory allocation of
+memset
+miniz_oxide.aa73a26ace176399-cgu.0
+mmap64
+mprotect
+munmap
+must specify at least one of read, write, or append accesscreating or truncating a file requires write or append accessfatal runtime error: a thread received SIGSEGV while modifying its stack overflow information, aborting
+n8I;n(u
+no /proc/self/exe available. Is /proc mounted?strerror_r failurefatal runtime error: assertion failed: signal(libc::SIGPIPE, handler) != libc::SIG_ERR, aborting
+no storage space
+no7=?BESgu
+note: Some details are omitted, run with `RUST_BACKTRACE=full` for a verbose backtrace.
+o<$fE
+oL$@f
+oL$Pf
+oL$`f
+oL$pf
+oT$ fA
+object.1d714a13e68e94d8-cgu.0
+od.0f
+offffff.
+open64
+opendir
+os_errorNotFoundTimedOutextern "PadError
+ot$ fA
+o|$ fD
+p(I;p
+panic_unwind.5836cf852131bdc3-cgu.0
+panicked at
+pause
+poll("/dev/random") failedfailed to generate random datastack backtrace:
+posix_memalign
+pthread_atfork
+pthread_attr_destroy
+pthread_attr_getguardsize
+pthread_attr_getstack
+pthread_getattr_np
+pthread_key_create
+pthread_key_delete
+pthread_mutex_lock
+pthread_mutex_unlock
+pthread_self
+pthread_setspecific
+r(tiH
+r=wZI9
+rand.f802da34203f8591-cgu.0
+rand_chacha.40fa0966baa019de-cgu.0
+rand_core.228b2ebecc7ffed8-cgu.0
+range end index
+range start index
+readdir64
+readlink
+realloc
+realpath
+register_tm_clones
+riffffff.
+right:
+right` failed
+right` failed:
+run_some_where.b4f549a9e5597f47-cgu.0
+run_some_where.b4f549a9e5597f47-cgu.1
+run_some_where.b4f549a9e5597f47-cgu.2
+rust_eh_personality
+rustc version 1.93.0 (254b59607 2026-01-19)
+rustc_demangle.c64b60e1926e2b0d-cgu.0
+s0[A^]
+same_file.2fbffcb7b588f520-cgu.0
+self/exeH
+sigaction
+sigaltstack
+signal
+skipping backtrace printing to avoid potential recursion
+slice index starts at
+src/main.rs
+stat64
+statx
+std.5414f88c956f4157-cgu.0
+std::process::exit called re-entrantlyfatal runtime error: the System allocator may not use TLS with destructors, aborting
+std_detect.891605abf549a7f1-cgu.0
+strlen
+syscall
+sysconf
+t$ fA
+t$(I)
+t<AWAVAUATSH
+t?AWAVAUATSH
+tPM9&u
+te=3!
+thread '
+thread panicked while processing panic. aborting.
+truemainchar -> shimHOME is     i128 as dyn
+tu&./
+u!fffdH
+u+ff.
+u-ff.
+uespemosarenegyl.debug_types.dwohost unreachable{invalid syntax}invalid filename
+unlink
+v]M;o
+w wRH;7sMA
+w*[A^A_
+walkdir.2b9882f3634c8a8-cgu.0
+walkdir.2b9882f3634c8a8-cgu.1
+walkdir.2b9882f3634c8a8-cgu.2
+walkdir.2b9882f3634c8a8-cgu.3
+walkdir.2b9882f3634c8a8-cgu.4
+write
+writev
+x[A\A]A^A_]
+x[A^A_]
+yoL$0
+{(L;{
+{size limit reached}`fmt::Error` from `SizeLimitedFmtAdapter` was discardedpunycode{EmptyInvalidDigitPosOverflowNegOverflowParseIntErrorSizeLimitExhausted@.
+|$8I1
+|$HE1
+}o%y

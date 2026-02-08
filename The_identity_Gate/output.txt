@@ -1,0 +1,93 @@
+S/lib64/ld-linux-x86-64.so.2
+puts
+__libc_start_main
+__cxa_finalize
+getenv
+printf
+getuid
+strcmp
+libc.so.6
+GLIBC_2.34
+GLIBC_2.2.5
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_ITM_registerTMCloneTable
+PTE1
+u+UH
+~---
+USER
+CeylonX
+./revalme
+Your identity is wrong !
+Flag: %s
+Congratulations Level 1 passed you ! 
+Congratulations Level 2 passed you ! 
+Are you sure this is right program ? 
+Do you think you are the right person ? 
+Congratulations Level 3 passed you !
+;*3$"
+GCC: (Debian 15.2.0-4) 15.2.0
+Scrt1.o
+__abi_tag
+crtstuff.c
+deregister_tm_clones
+__do_global_dtors_aux
+completed.0
+__do_global_dtors_aux_fini_array_entry
+frame_dummy
+__frame_dummy_init_array_entry
+challange.c
+revalMe
+__FRAME_END__
+_DYNAMIC
+__GNU_EH_FRAME_HDR
+_GLOBAL_OFFSET_TABLE_
+getenv@GLIBC_2.2.5
+__libc_start_main@GLIBC_2.34
+_ITM_deregisterTMCloneTable
+puts@GLIBC_2.2.5
+_edata
+_fini
+getuid@GLIBC_2.2.5
+printf@GLIBC_2.2.5
+__data_start
+strcmp@GLIBC_2.2.5
+__gmon_start__
+__dso_handle
+_IO_stdin_used
+secret_msg
+_end
+__bss_start
+main
+__TMC_END__
+_ITM_registerTMCloneTable
+__cxa_finalize@GLIBC_2.2.5
+_init
+.symtab
+.strtab
+.shstrtab
+.note.gnu.property
+.note.gnu.build-id
+.interp
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.note.ABI-tag
+.init_array
+.fini_array
+.dynamic
+.got.plt
+.data
+.bss
+.comment
