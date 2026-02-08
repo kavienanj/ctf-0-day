@@ -1,0 +1,12 @@
+# Python Ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+
+# env files
+.env
+.env.local
+env/
